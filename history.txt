@@ -1,0 +1,22 @@
+* 969d04a Merge feature1 and feature2
+*   e408e17 Merge feature2
+|\  
+| * 89d7e7d feature2 change
+* |   fb1ffcb Merge feature1
+|\ \  
+| * | d930af5 feature1 change
+| |/  
+* | b4fe76d Добавлена строка 'не кронва'
+* | 3d93433 Добавлена строка 'кронва'
+|/  
+* cd6c95c add requirements.txt 5
+* 80d308c add requirements.txt 4
+* dd61d56 add requirements.txt 3
+| * d8106ec Добавлена строка 'кронва' в hf_tests
+| * 87dedfe add requirements.txt 4
+| * ebfc940 add requirements.txt 3
+| * cd4a55a Новый коммит после отката к третьему коммиту
+|/  
+* 2478faf add requirements.txt 2
+* ee10e0a add requirements.txt 1
+* af90215 init
